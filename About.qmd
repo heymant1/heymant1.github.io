@@ -1,0 +1,11 @@
+------------------------------------------------------------------------
+
+title : "About me"
+
+text: "I am an aspiring economics researcher with a broad interest in labor markets, development, and inequality. My work explores economic disparities using data-driven analysis and econometric techniques.
+
+Beyond research, I teach undergraduate economics and enjoy hiking and photography, often capturing landscapes during my trekking adventures."
+
+template: jolla
+
+------------------------------------------------------------------------

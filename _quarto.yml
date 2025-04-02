@@ -10,6 +10,10 @@ website:
         href: https://github.com/heymant1
       - icon: twitter
         href: https://twitter.com
+      - About.qmd
+      
+
+
 format:
   html:
     theme: yeti
